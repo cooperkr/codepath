@@ -41,7 +41,7 @@ I get a Thread 1:breakpoint 1.1 depending on what number I enter for the billamo
 
 ## License
 
-    Copyright [2015] [Krystal Cooper]
+    Copyright [2015] [cooperkr]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
